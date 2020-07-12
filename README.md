@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Alexis.
 
-<!--
-**alazzuri/alazzuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a frontend developer and a JS lover. I am currently working with React  ⚛, but I am always looking for new opportunities to learn new stuff.
 
-Here are some ideas to get you started:
+I’m open to collaborate on projects and help people that are learning HTML, CSS or JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Below is a list of my recent repositories:
+
+- [HotelScanner](https://github.com/alazzuri/hotelScanner) 🏨 
+- [The Weather App](https://github.com/alazzuri/weather-app) ☀️ ☔ ☁️
+- [CocktailFinder](https://github.com/alazzuri/CocktailFinder) 🍹
+
+
+You could find me on Twitter as [@alezzuri](https://twitter.com/alezzuri).
+
+
+
