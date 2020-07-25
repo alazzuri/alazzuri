@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Alexis.
 
 
-
 I am a frontend developer and a JS lover. I am currently working with React  ⚛, but I am always looking for new opportunities to learn new stuff.
 
 I’m open to collaborate on projects and help people that are learning HTML, CSS or JS.
+
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_4.svg)](https://cafecito.app/alazzuri)
+
 
 #### My Stack
 
@@ -50,8 +52,6 @@ I’m open to collaborate on projects and help people that are learning HTML, CS
 - [React: Components and props](https://collectednotes.com/alazzuri/react-components-and-props)
 - [The begining of my journey as a developer](https://collectednotes.com/alazzuri/the-beginning-of-my-journey-as-a-developer)
 - [Hello World 👋](https://medium.com/comunidad-ac%C3%A1mica/hello-world-c64c8c3aacd1)
-
-
 
 
 
