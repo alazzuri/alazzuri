@@ -14,11 +14,13 @@ I’m open to collaborate on projects and help people that are learning HTML, CS
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![SAAS](https://img.shields.io/badge/-SASS-ff69b4?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 
 ##### **Backend**
@@ -33,10 +35,17 @@ I’m open to collaborate on projects and help people that are learning HTML, CS
 
 ##### **Tools**
 
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm)
+![Yarn](https://img.shields.io/badge/-Yarn-1572B6?style=for-the-badge&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-3f0f91?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-1572B6?style=for-the-badge&logo=trello&logoColor=white)
+
+
+
 
 
 #### My Recent Repositories
