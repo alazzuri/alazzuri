@@ -56,6 +56,7 @@ I’m open to collaborate on projects and help people that are learning HTML, CS
 
 #### Posts and otherwise
 
+- [Why React Native is so loveable and why you should learn it](https://nextdots.com/blog/why-react-native-is-so-loveable-and-why-you-should-learn-it)
 - [Why e2e tests are so important](https://blog.nextdots.com/2020/07/22/e2e-testing/)
 - [Let's talk about state](https://collectednotes.com/alazzuri/let-s-talk-about-state)
 - [React: Components and props](https://collectednotes.com/alazzuri/react-components-and-props)
