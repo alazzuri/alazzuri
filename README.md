@@ -17,6 +17,7 @@ I’m open to collaborate on projects and help people that are learning HTML, CS
 ![Redux](https://img.shields.io/badge/-Redux-311C87?style=for-the-badge&logo=redux)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Next Js](https://img.shields.io/badge/-Next.Js-007ACC?style=for-the-badge&color=black)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
