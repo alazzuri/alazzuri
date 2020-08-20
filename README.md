@@ -55,7 +55,7 @@ I’m open to collaborate on projects and help people that are learning HTML, CS
 - [The Weather App](https://github.com/alazzuri/weather-app) ☀️ ☔ ☁️
 - [CocktailFinder](https://github.com/alazzuri/CocktailFinder) 🍹
 
-#### Posts and otherwise
+#### Posts and others
 
 - [Why React Native is so loveable and why you should learn it](https://nextdots.com/blog/why-react-native-is-so-loveable-and-why-you-should-learn-it)
 - [Why e2e tests are so important](https://blog.nextdots.com/2020/07/22/e2e-testing/)
