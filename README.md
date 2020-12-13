@@ -53,9 +53,9 @@ I’m open to collaborate on projects and help people that are learning HTML, CS
 
 #### My Recent Repositories
 
+- [Rewards Store](https://github.com/alazzuri/reward-store) :gift:
 - [NewsRoom](https://github.com/alazzuri/newsRoom) :newspaper:
 - [HotelScanner](https://github.com/alazzuri/hotelScanner) 🏨 
-- [The Weather App](https://github.com/alazzuri/weather-app) ☀️ ☔ ☁️
 
 
 #### Posts and others
